@@ -15,5 +15,5 @@ The deployable static version of Hypertabs, a popular tabbed proxy with many fea
 For any other deployment service, use like any other static website for production.
 
 
-Thanks to AN for the main [repository](https://github.com/amethystnetwork-dev/Hypertabs/tree/main/static) base. Make sure to add credit to this repository and also to star it. Also this person is really bothered because this runs on a backend, so its not fully static. https://github.com/FoxMoss
+Thanks to AN for the main [repository](https://github.com/amethystnetwork-dev/Hypertabs/tree/main/static) base. Make sure to add credit to this repository and also to star it.
 
